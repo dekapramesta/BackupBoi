@@ -1,0 +1,39 @@
+<!-- REFERENCED DOCUMENT --!>
+
+{
+    "Nomhs" : 151000500,
+    "Nama" : Prima Santoso,
+    "Alamat" : Jl. Demangan Kidul 221 Yk,
+    "Sks" : 20,
+    "IPK" : 2.51,
+    "Kode_wali" : 2
+}
+
+
+{
+    "Kode_wali" : 2,
+    "Nama" : Drs.Panca Wahono,
+    "NIP" : 094067432,
+    "Pangkat" : Letkol Kepala,
+    "Jabatan" : Dosen
+}
+
+
+<!-- EMBEDDED DOCUMENT --!>
+
+{
+    "Nomhs" : 151000500,
+    "Nama" : Prima Santoso,
+    "Alamat" : Jl. Demangan Kidul 221 Yk,
+    "Sks" : 20,
+    "IPK" : 2.51,
+    "wali" : [
+            {
+                "Kode_wali" : 2,
+                "Nama" : Drs.Panca Wahono,
+                "NIP" : 094067432,
+                "Pangkat" : Letkol Kepala,
+                "Jabatan" : Dosen
+            }
+        ]
+}

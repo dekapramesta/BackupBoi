@@ -1,0 +1,3 @@
+[16-Nov-2021 13:35:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Mdl_Kategori_produk::get_city_produk() in /home/k9170490/beautyofindonesia.com/admin-page/application/controllers/Kategori_produk.php on line 444
+[16-Nov-2021 13:35:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Mdl_Kategori_produk::get_city_produk() in /home/k9170490/beautyofindonesia.com/admin-page/application/controllers/Kategori_produk.php on line 444
+[16-Nov-2021 12:51:32 UTC] PHP Parse error:  syntax error, unexpected ''nama_provinsi'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/k9170490/beautyofindonesia.com/admin-page/application/controllers/Kategori_produk.php on line 388
